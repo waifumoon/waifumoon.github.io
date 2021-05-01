@@ -63,7 +63,7 @@ body {
 }
 .tm-section-4 {
   height: 790px;
-  background-image: url(../img/img-01-copy.jpg);
+  background-image: url(../img/img-01-Copy.jpg);
   background-size: cover;
   -webkit-clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
   clip-path: polygon(0px 0px, 100% 14%, 100% 86%, 0px 100%);
